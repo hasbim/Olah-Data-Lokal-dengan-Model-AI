@@ -4,8 +4,9 @@ File bacafile.py sekadar function untuk membuka, membaca, dan mengekstrak data f
 
 Aplikasi ini dijalankan dengan mengeksekusi main.py.
 
-Sebelum dijalankan pastikan seluruh modul yang dibutuhkan sudah terinstal di komputer Anda
-pastikan juga Anda memiliki API_key dari Groq (free) yang disimpan file di .env
+Sebelum dijalankan pastikan seluruh modul yang dibutuhkan sudah terinstal di komputer Anda.
+
+Pastikan juga Anda memiliki API_key dari Groq (free) yang disimpan file .env
 
 File data lokal hendaknya ditaruh di folder yang sama dengan file script
 
