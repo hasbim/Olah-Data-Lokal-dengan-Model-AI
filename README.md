@@ -1,6 +1,6 @@
 Aplikasi ini bermanfaat untuk mengolah data lokal (file.txt) dengan kueri yang terhubung ke model LLM. 
 
-Dengan aplikasi ini respon dari LLM akan sangat relevan dengan data lokal yang kita sodorkan. Dengan demikian tingkat halusinasi jawaban modal LLM akan sangat rendah. 
+Dengan aplikasi ini respon dari LLM akan sangat relevan dengan data lokal yang kita sodorkan. Dengan demikian tingkat halusinasi jawaban model LLM akan sangat rendah. 
 
 ===
 
