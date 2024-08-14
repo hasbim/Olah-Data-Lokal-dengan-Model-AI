@@ -65,3 +65,4 @@ def print_llm_response(prompt, data):
         print("\n")
     except Exception as e:  # Catch broader exceptions for better error handling
         print("Error:", str(e))
+prompt = input("Tulis Kueri Anda: ")
